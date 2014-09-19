@@ -231,7 +231,6 @@ shop
 show
 sink
 sister
-skate
 smoke
 snail
 snake
