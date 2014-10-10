@@ -189,7 +189,6 @@ parent
 park
 partner
 patch
-pear
 pen
 pest
 pet
