@@ -3,7 +3,6 @@ baby
 best
 better
 big
-black
 blue
 brave
 brown
@@ -81,7 +80,6 @@ teenage
 thin
 tiny
 warm
-white
 wicked
 wide
 wild

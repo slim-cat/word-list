@@ -29,7 +29,6 @@ birthday
 book
 boot
 border
-boy
 brain
 branch
 bread
@@ -55,7 +54,6 @@ cave
 channel
 cherry
 chicken
-children
 chin
 circle
 clam
@@ -66,7 +64,6 @@ coach
 coast
 corn
 cow
-cracker
 crate
 cream
 creator
@@ -97,7 +94,6 @@ feet
 fight
 finger
 flag
-flesh
 flock
 flower
 fog
@@ -108,7 +104,6 @@ fruit
 game
 gate
 ghost
-girl
 glove
 glue
 goldfish
@@ -135,7 +130,6 @@ horn
 horse
 hose
 idea
-income
 island
 jam
 jar
@@ -146,18 +140,15 @@ king
 kiss
 kite
 kitten
-lace
 ladybug
 lake
 lamp
 linen
 lock
 locket
-lumber
 lunch
 magic
 mailbox
-man
 map
 marble
 mask
