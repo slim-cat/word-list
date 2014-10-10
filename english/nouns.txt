@@ -197,7 +197,6 @@ pie
 pig
 plane
 plant
-plastic
 plot
 pocket
 poison
