@@ -272,7 +272,7 @@ tiger
 title
 town
 trail
-tramp
+train
 tray
 tree
 trick
